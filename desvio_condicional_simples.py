@@ -10,3 +10,5 @@ soma = num1 + num2
 
 if ( soma > 10):
     print(f"A soma dos números é {soma}.")
+
+print("FIM DO PRORAMA.")
